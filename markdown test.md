@@ -25,7 +25,7 @@
 語法：<s>你要刪除的文字</s>
 
 插入連結</br>
-[點我前往 Google](https://www.google.com)
+[點我前往 YouTube](https://www.youtube.com/)
 
 把字串的前後標在四個等號中間 ==要標色的字== 就會有螢光筆的效果！</br>
 
